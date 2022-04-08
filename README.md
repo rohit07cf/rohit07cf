@@ -5,7 +5,7 @@
     <td> <h3> 👨🏻‍ &nbsp;About Me </h3>
 
 
-- &nbsp;Graduate student at New Jersey Institure Of Technology with a master’s degree in Data Science, 
+- &nbsp;Graduate student at New Jersey Institute Of Technology with a master’s degree in Data Science, 
        having a passion for the Artificial Intelligence and Machine Learning 
 
 - &nbsp;4+ years of experience building data powered products at various analytics firms in an agile setting for varying industries. 
