@@ -14,12 +14,12 @@
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;Technical Skills </h3>
 
-- &nbsp; Programming: Python, R, SQL, Java, C, C++
-- &nbsp; Tools : Power BI, Excel, Microsoft Power Point, Minitab, Docker
-- &nbsp; Text Analytics: NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
-- &nbsp; Libraries: sklearn, pandas, numpy, scipy, CNN, RNN, LSTM, XGBoost, TensorFlow, Keras, PyTorch, OpenCV
-- &nbsp; Databases: MySQL, PostgreSQL, Microsoft SQL Server, Hive, HBase, Mongo DB
-- &nbsp; Cloud: Azure ML, Azure SDK, Azure Databricks, Auto ML, Azure Kubernetes Service, AWS, S3, Sagemaker      
+- &nbsp; Programming:	Python, R, SQL, Java
+- &nbsp; Libs & Frameworks: Langchain, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
+- &nbsp; Databases:	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
+- &nbsp; Text Analytics:	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
+- &nbsp; MLOps & Cloud: Kubernetes, Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
+- &nbsp; Tools:	LLM Guard, GitHub Actions, GitHub, Make, Power BI, Excel, Docker, SVN & Putty 
       
 <div align="center">
 
