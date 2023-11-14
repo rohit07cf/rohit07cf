@@ -5,10 +5,9 @@
     <td> <h3> 👨🏻‍ &nbsp;About Me </h3>
 
 
-- &nbsp;Graduate student at New Jersey Institute Of Technology with a master’s degree in Data Science, 
-       having a passion for the Artificial Intelligence and Machine Learning 
+- &nbsp; Currently working at Infosys Limited as a Senior Analyst - Data Science.
 
-- &nbsp;4+ years of experience building data powered products at various analytics firms in an agile setting for varying industries. 
+- &nbsp;5+ years of experience building AI-powered products at various analytics firms in an agile setting for varying industries. 
 
 <table width="100%"> 
   <tr>
