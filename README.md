@@ -12,14 +12,14 @@
 
 <table width="100%"> 
   <tr>
-    <td> <h3> 👨🏻‍💻 &nbsp;Technical Skills </h3>
+    <td> <h3> 👨🏻‍💻 &nbsp;<b>Technical Skills</b> </h3>
 
-- &nbsp; Programming:	Python, R, SQL, Java
-- &nbsp; Libs & Frameworks: Langchain, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
-- &nbsp; Databases:	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
-- &nbsp; Text Analytics:	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
-- &nbsp; MLOps & Cloud: Kubernetes, Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
-- &nbsp; Tools:	LLM Guard, GitHub Actions, GitHub, Make, Power BI, Excel, Docker, SVN & Putty 
+- &nbsp; <b>Programming:</b>	Python, R, SQL, Java
+- &nbsp; <b>Libs & Frameworks:</b> Langchain, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
+- &nbsp; <b>Databases:</b>	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
+- &nbsp; <b>Text Analytics:</b>	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
+- &nbsp; <b>MLOps & Cloud:</b> Kubernetes, Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
+- &nbsp; <b>Tools:</b>	LLM Guard, GitHub Actions, GitHub, Make, Power BI, Excel, Docker, SVN & Putty 
       
 <div align="center">
 
