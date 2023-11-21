@@ -18,7 +18,8 @@
 - &nbsp; <b>Databases:</b>	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
 - &nbsp; <b>Text Analytics:</b>	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
 - &nbsp; <b>MLOps & Cloud:</b> Kubernetes, Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
-- &nbsp; <b>Tools:</b>	LLM Guard, GitHub Actions, GitHub, Make, Power BI, Excel, Docker, SVN & Putty 
+- &nbsp; <b>Tools:</b>	LLM Guard, GitHub Actions, GitHub, Make, Power BI, Excel, Docker, SVN & Putty
+- &nbsp; <b>Certifications:</b>	Kubernetes Certified Adminstrator: https://www.credly.com/badges/080b8e0b-796b-49e3-a983-81eafb8ee44d/linked_in?t=rbik0s
       
 <div align="center">
 
