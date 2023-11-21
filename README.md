@@ -5,7 +5,7 @@
     <td> <h3> 👨🏻‍ &nbsp;About Me </h3>
 
 
-- &nbsp; Currently working at Infosys Limited as a Senior Analyst - Data Science.
+- &nbsp;Currently working at Infosys Limited as a Senior Analyst - Data Science.
 
 - &nbsp;5+ years of experience building AI-powered products at various analytics firms in an agile setting for varying industries. 
 
