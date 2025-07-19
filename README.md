@@ -5,21 +5,21 @@
     <td> <h3> 👨🏻‍ &nbsp;About Me </h3>
 
 
-- &nbsp;Currently working at Infosys Limited as a Senior Analyst - Data Science.
+- &nbsp;Currently working at Infosys Limited as a Lead Analyst - Data Science.
 - &nbsp;Master's in Data Science from New Jersey Institute of Technology.
 
-- &nbsp;5+ years of experience building AI-powered products at various analytics firms in an agile setting for varying industries. 
+- &nbsp;7+ years of experience building AI-powered products at various analytics firms in an agile setting for varying industries. 
 
 <table width="100%"> 
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;<b>Technical Skills</b> </h3>
 
 - &nbsp; <b>Programming:</b>	Python, R, SQL, Java
-- &nbsp; <b>Libs & Frameworks:</b> Langchain, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
+- &nbsp; <b>Libs & Frameworks:</b> Langchain, Langgraph, LLM Guard, Guardrails AI, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
 - &nbsp; <b>Databases:</b>	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
 - &nbsp; <b>Text Analytics:</b>	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
-- &nbsp; <b>MLOps & Cloud:</b> Kubernetes, Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
-- &nbsp; <b>Tools:</b>	LLM Guard, GitHub Actions, GitHub, Make, Power BI, Excel, Docker, SVN & Putty
+- &nbsp; <b>MLOps & Cloud:</b> Kubernetes, Docker, Helm,  Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
+- &nbsp; <b>Tools:</b>	 MCP, A2A, GitHub Actions, GitHub, Make, Power BI, Excel, SVN & Putty
 - &nbsp; <b>Certifications:</b>
 - &nbsp; Kubernetes Certified Adminstrator: https://www.credly.com/badges/888d17c7-d1ac-4c5a-9c08-ac3af5e91975/public_url
 - &nbsp; AWS Certified Machine Learning Specialty: https://www.credly.com/badges/080b8e0b-796b-49e3-a983-81eafb8ee44d/linked_in?t=rbik0s
