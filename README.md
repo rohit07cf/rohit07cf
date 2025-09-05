@@ -14,7 +14,7 @@
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;<b>Technical Skills</b> </h3>
 
-- &nbsp; <b>Programming:</b>	Python, R, SQL, Java
+- &nbsp; <b>Programming:</b>	Python, Go, R, SQL, Java
 - &nbsp; <b>Libs & Frameworks:</b> Langchain, Langgraph, LLM Guard, Guardrails AI, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
 - &nbsp; <b>Databases:</b>	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
 - &nbsp; <b>Text Analytics:</b>	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
