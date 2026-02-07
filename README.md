@@ -14,12 +14,13 @@
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;<b>Technical Skills</b> </h3>
 
-- &nbsp; <b>Programming:</b>	Python, Go, R, SQL, Java
-- &nbsp; <b>Libs & Frameworks:</b> Langchain, Langgraph, LLM Guard, Guardrails AI, FastAPI, HuggingFace, OpenAI, scikit-learn, Pandas, XGBoost, TensorFlow, Keras, OpenCV
-- &nbsp; <b>Databases:</b>	Redis, ElasticVectorSearch, PostgreSQL, Microsoft SQL Server, Hive, HBase, AWS RDS
-- &nbsp; <b>Text Analytics:</b>	LLMs, NLP, NLU, NLTK, Entity Recognition, Spacy, Word2Vec, Transformers, BERT, Chatbots
-- &nbsp; <b>MLOps & Cloud:</b> Kubernetes, Docker, Helm,  Azure ML, Sagemaker, Experiments, CloudWatch, Glue, DMS, RDS, S3, IAM, Redshift, Athena
-- &nbsp; <b>Tools:</b>	 MCP, A2A, GitHub Actions, GitHub, Make, Power BI, Excel, SVN & Putty
+- &nbsp; <b>Programming:</b>	Python, Go, SQL, Java
+- &nbsp; <b>Gen AI & Agents:</b> OpenAI Agents SDK, LangChain, LangGraph, LiteLLM, FastMCP (MCP), A2A, Pydantic, tiktoken
+- &nbsp; <b>LLM Providers:</b>	OpenAI, Anthropic (Claude), Google Gemini, Azure OpenAI
+- &nbsp; <b>ML & NLP:</b>	PyTorch, Transformers, scikit-learn, SpaCy, NLTK, ONNX Runtime, XGBoost, TensorFlow, Keras, OpenCV
+- &nbsp; <b>Fine-tuning & Safety:</b> Llama Factory, LoRA, QLoRA, MLflow, LLM Guard, Guardrails AI
+- &nbsp; <b>RAG & Retrieval:</b> Pinecone, Elasticsearch, OpenSearch, BM25, Unstructured, PyMuPDF, Azure AI Document Intelligence
+- &nbsp; <b>Infrastructure:</b> Kubernetes, Docker, Helm, KEDA, Temporal, FastAPI, gRPC, MSAL, Redis Streams, AWS (SageMaker, S3, Glue, Redshift), Azure ML
 - &nbsp; <b>Certifications:</b>
 - &nbsp; Kubernetes Certified Adminstrator: https://www.credly.com/badges/888d17c7-d1ac-4c5a-9c08-ac3af5e91975/public_url
 - &nbsp; AWS Certified Machine Learning Specialty: https://www.credly.com/badges/080b8e0b-796b-49e3-a983-81eafb8ee44d/linked_in?t=rbik0s
