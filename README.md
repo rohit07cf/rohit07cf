@@ -5,9 +5,6 @@
     <td> <h3> 👨🏻‍ &nbsp;About Me </h3>
 
 
-- &nbsp;Currently working at Infosys Limited as a Lead Analyst - Data Science.
-- &nbsp;Master's in Data Science from New Jersey Institute of Technology.
-
 - &nbsp;8+ years of experience building AI-powered products at various analytics firms in an agile setting for varying industries. 
 
 <table width="100%"> 
